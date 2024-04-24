@@ -31,7 +31,7 @@ export const defaultProps: PartialComponentProps = {
     activeColor: 'white',
     inactiveColor: '#aaa',
     playableColor: '#ccc',
-    thumb: <ControlThumb color="white" />,
+    thumb: <ControlThumb color="rgba(250, 138, 57, 1)" />,
     renderTotalDuration: defaultRenderDuration,
     renderCurrentTime: defaultRenderCurrentTime,
   },
